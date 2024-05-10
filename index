@@ -1,4 +1,9 @@
 import ctypes  # An included library with Python install.
 def Mbox(title, text, style):
     return ctypes.windll.user32.MessageBoxW(0, text, title, style)
-Mbox('Your title', 'Your text', 1)
+Mbox('Your title', 'Your text', 1
+11111111111111111111
+22222222222222222222
+333333333333333333333333333
+444444444444444444444444444444
+55555555555555555555555
